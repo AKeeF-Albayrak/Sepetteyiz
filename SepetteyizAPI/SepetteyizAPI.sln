@@ -7,9 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{02EA681E-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{6FDE6D12-9585-49E8-8FA4-A9AA231E3F0F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{D074D0B4-DA49-40D2-8D45-4195F5F4FFE7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D074D0B4-DA49-40D2-8D45-4195F5F4FFE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepetteyizAPI.Application", "Core\SepetteyizAPI.Application\SepetteyizAPI.Application.csproj", "{44A23B05-C05E-4562-98C9-997358B16725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepetteyizAPI.Domain", "Core\SepetteyizAPI.Domain\SepetteyizAPI.Domain.csproj", "{1AC9B504-CDBB-4312-8FBF-4043A62D2373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepetteyizAPI.API", "Presentation\SepetteyizAPI.API\SepetteyizAPI.API.csproj", "{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepetteyizAPI.Persistence", "Infrastructure\SepetteyizAPI.Persistence\SepetteyizAPI.Persistence.csproj", "{B79BBE28-6005-4081-88CE-7A2BC6F2554E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SepetteyizAPI.Infrastructure", "Infrastructure\SepetteyizAPI.Infrastructure\SepetteyizAPI.Infrastructure.csproj", "{7AB7128F-61E0-4592-8C8C-D88B55186E57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,12 +29,32 @@ Global
 		{44A23B05-C05E-4562-98C9-997358B16725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A23B05-C05E-4562-98C9-997358B16725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A23B05-C05E-4562-98C9-997358B16725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC9B504-CDBB-4312-8FBF-4043A62D2373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC9B504-CDBB-4312-8FBF-4043A62D2373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC9B504-CDBB-4312-8FBF-4043A62D2373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC9B504-CDBB-4312-8FBF-4043A62D2373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79BBE28-6005-4081-88CE-7A2BC6F2554E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79BBE28-6005-4081-88CE-7A2BC6F2554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79BBE28-6005-4081-88CE-7A2BC6F2554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79BBE28-6005-4081-88CE-7A2BC6F2554E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB7128F-61E0-4592-8C8C-D88B55186E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB7128F-61E0-4592-8C8C-D88B55186E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB7128F-61E0-4592-8C8C-D88B55186E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB7128F-61E0-4592-8C8C-D88B55186E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{44A23B05-C05E-4562-98C9-997358B16725} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1AC9B504-CDBB-4312-8FBF-4043A62D2373} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E93D3A2D-992C-4E30-A9CA-7EDFCD68DECB} = {D074D0B4-DA49-40D2-8D45-4195F5F4FFE7}
+		{B79BBE28-6005-4081-88CE-7A2BC6F2554E} = {6FDE6D12-9585-49E8-8FA4-A9AA231E3F0F}
+		{7AB7128F-61E0-4592-8C8C-D88B55186E57} = {6FDE6D12-9585-49E8-8FA4-A9AA231E3F0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA423CAB-94E7-4899-B85C-0408017521E7}

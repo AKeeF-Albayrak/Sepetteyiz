@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SepetteyizAPI.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea1326bff26c030f0da2adf587877e70ecca19dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SepetteyizAPI.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SepetteyizAPI.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
