@@ -1,0 +1,6 @@
+@SepetteyizAPI.API_HostAddress = http://localhost:5190
+
+GET {{SepetteyizAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

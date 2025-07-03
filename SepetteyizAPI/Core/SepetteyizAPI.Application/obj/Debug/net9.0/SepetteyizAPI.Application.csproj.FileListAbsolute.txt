@@ -1,0 +1,11 @@
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\bin\Debug\net9.0\SepetteyizAPI.Application.deps.json
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\bin\Debug\net9.0\SepetteyizAPI.Application.dll
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\bin\Debug\net9.0\SepetteyizAPI.Application.pdb
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.AssemblyInfoInputs.cache
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.AssemblyInfo.cs
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.dll
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\refint\SepetteyizAPI.Application.dll
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\SepetteyizAPI.Application.pdb
+C:\Users\akifa\Desktop\Akif\Projects\Sepetteyiz\SepetteyizAPI\Core\SepetteyizAPI.Application\obj\Debug\net9.0\ref\SepetteyizAPI.Application.dll
