@@ -5,17 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SepetteyizAPI.Domain.Entities
+namespace SepetteyizAPI.Domain.Entities.Products
 {
-    public class ProductView : BaseEntity
+    public class ProductEmbeddingLog : BaseEntity
     {
-        public Guid UserId { get; set; }
-        public User User { get; set; }
-
         public Guid ProductCatalogId { get; set; }
         public ProductCatalog ProductCatalog { get; set; }
 
-        public DateTime ViewedAt { get; set; }
+        public string TextVector { get; set; } // JSON string, array, or vector string
+        public string ImageVector { get; set; }
     }
 
 }

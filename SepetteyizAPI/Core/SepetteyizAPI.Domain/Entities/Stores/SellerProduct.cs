@@ -1,11 +1,13 @@
 ﻿using SepetteyizAPI.Domain.Entities.Common;
+using SepetteyizAPI.Domain.Entities.Orders;
+using SepetteyizAPI.Domain.Entities.Products;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SepetteyizAPI.Domain.Entities
+namespace SepetteyizAPI.Domain.Entities.Stores
 {
     public class SellerProduct : BaseEntity
     {

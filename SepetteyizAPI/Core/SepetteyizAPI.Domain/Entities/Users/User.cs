@@ -1,4 +1,5 @@
 ﻿using SepetteyizAPI.Domain.Entities.Common;
+using SepetteyizAPI.Domain.Entities.Orders;
 using SepetteyizAPI.Domain.Enums;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SepetteyizAPI.Domain.Entities
+namespace SepetteyizAPI.Domain.Entities.Users
 {
     public class User : BaseEntity
     {

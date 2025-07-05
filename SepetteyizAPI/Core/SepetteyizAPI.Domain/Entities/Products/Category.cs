@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SepetteyizAPI.Domain.Entities
+namespace SepetteyizAPI.Domain.Entities.Products
 {
     public class Category
     {
